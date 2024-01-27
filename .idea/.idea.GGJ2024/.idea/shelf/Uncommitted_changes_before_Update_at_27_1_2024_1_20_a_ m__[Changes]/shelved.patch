@@ -1,0 +1,38 @@
+Index: .idea/.idea.GGJ2024/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.GGJ2024/.idea/encodings.xml b/.idea/.idea.GGJ2024/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1706329139102)
++++ b/.idea/.idea.GGJ2024/.idea/encodings.xml	(date 1706329139102)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
++</project>
+\ No newline at end of file
+Index: .idea/.idea.GGJ2024/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.GGJ2024/.idea/.gitignore b/.idea/.idea.GGJ2024/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1706329148191)
++++ b/.idea/.idea.GGJ2024/.idea/.gitignore	(date 1706329148191)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/contentModel.xml
++/modules.xml
++/.idea.GGJ2024.iml
++/projectSettingsUpdater.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
